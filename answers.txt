@@ -1,0 +1,4 @@
+Q1: Why might we consider using Git?
+
+Answer: This is kind of like google docs where people can collaborate on these coding projects together using the several git commands.
+Additionally, it is a great way to back up work in case something happens to your local computer
