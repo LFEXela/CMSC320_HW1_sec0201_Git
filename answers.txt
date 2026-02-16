@@ -1,3 +1,9 @@
+
+Q3: What is the difference between Merging and Rebasing?
+
+Answer: Merge creates a new commit, preserving history and the bracnhes, while rebase rewrites history to create a linear project 
+timeline, effectively removing a branch into one branch
+
 Q2: What field could data science be applied to? Give an Example.
 
 Answer: An example a field data science could be applied to is the pharmaceutical industry
